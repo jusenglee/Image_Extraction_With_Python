@@ -1,0 +1,675 @@
+
+gpython:S1192ÈX"IDefine a constant instead of duplicating this literal "/%s gs\n" 3 times.(†ñ·üÿÿÿÿ
+{python:S1192±
+"bDefine a constant instead of duplicating this literal "{:g} {:g} {:g} rg /{f:s} {s:g} Tf" 3 times.(Ğˆ×‰
+dpython:S1192"KDefine a constant instead of duplicating this literal "[%g %g %g]" 3 times.(çŸî•
+kpython:S1192û¤"QDefine a constant instead of duplicating this literal "\nq\n%s%f %f m\n" 6 times.(Ôßæ·
+qpython:S1192æ%"XDefine a constant instead of duplicating this literal "page id not in document" 3 times.(ÒÃİ¹
+hpython:S1192×V"JDefine a constant instead of duplicating this literal "%g %g l\n" 3 times.(Ñµò¶ûÿÿÿÿ
+ipython:S1192î"KDefine a constant instead of duplicating this literal "is no PDF" 11 times.(Â¼Ê¦ùÿÿÿÿ
+hpython:S1192+"JDefine a constant instead of duplicating this literal "not a PDF" 4 times.(Ò×ÿµüÿÿÿÿ
+ipython:S1192­"PDefine a constant instead of duplicating this literal 'document closed' 3 times.(ıü±¡
+kpython:S1192ùQ"RDefine a constant instead of duplicating this literal "Quad: bad seq len" 4 times.(ÈòÕâ
+ypython:S1192 1"`Define a constant instead of duplicating this literal "orphaned object: parent is None" 3 times.(Øø¢
+lpython:S1192”3"SDefine a constant instead of duplicating this literal "index out of range" 5 times.(£«æè
+gpython:S1192"NDefine a constant instead of duplicating this literal "[%g %g %g %g]" 4 times.(…À¥á
+gpython:S1192ä+"IDefine a constant instead of duplicating this literal "bad xref" 3 times.(úş«èúÿÿÿÿ
+gpython:S1192æS"NDefine a constant instead of duplicating this literal "bad operand 2" 3 times.(ùšî
+wpython:S1192â"^Define a constant instead of duplicating this literal "document closed or encrypted" 41 times.(å›Ó¢
+bpython:S1192¬V"JDefine a constant instead of duplicating this literal "%g %g m\n" 5 times.(üÖ	
+epython:S1192ü¤"KDefine a constant instead of duplicating this literal "%f %f l\n" 16 times.(öƒ‰°
+fpython:S1192ÁX"NDefine a constant instead of duplicating this literal "/OC /%s BDC\n" 3 times.(ÌçÍ
+mpython:S1192ü"TDefine a constant instead of duplicating this literal "bad page number(s)" 10 times.(²ÿÍ˜
+lpython:S1192¿P"SDefine a constant instead of duplicating this literal "Point: bad seq len" 6 times.(£úş´
+upython:S1192ñX"WDefine a constant instead of duplicating this literal "%g %g %g %g %g %g cm\n" 3 times.(˜š›–üÿÿÿÿ
+rpython:S1192©2"TDefine a constant instead of duplicating this literal "Matrix: bad seq len" 7 times.(¹ğ™Øüÿÿÿÿ
+ppython:S1192áS"RDefine a constant instead of duplicating this literal "Rect: bad seq len" 4 times.(ÍÊØ¹şÿÿÿÿ
+jpython:S1192Ò"QDefine a constant instead of duplicating this literal "document closed" 20 times.(‰¨™®
+mpython:S1192"ODefine a constant instead of duplicating this literal "Params/ModDate" 3 times.(Ğêüÿÿÿÿ
+apython:S1192ËX"HDefine a constant instead of duplicating this literal "%g w\n" 10 times.(¹³î”
+apython:S5797È1"HReplace this expression; used as a condition it will always be constant.(óÿ¡å
+apython:S5797Ó7"HReplace this expression; used as a condition it will always be constant.(õ™ÃÆ
+fpython:S5797Ú7"HReplace this expression; used as a condition it will always be constant.(²Ş–—øÿÿÿÿ
+fpython:S5797è7"HReplace this expression; used as a condition it will always be constant.(²Ş–—øÿÿÿÿ
+apython:S5797§8"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+fpython:S5797Ñ="HReplace this expression; used as a condition it will always be constant.(Î…ÿÿÿÿÿ
+apython:S5797ÆA"HReplace this expression; used as a condition it will always be constant.(îÙÁ¾
+apython:S5797åI"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+fpython:S5797ÚJ"HReplace this expression; used as a condition it will always be constant.(²Ş–—øÿÿÿÿ
+fpython:S5797ßJ"HReplace this expression; used as a condition it will always be constant.(¼  áúÿÿÿÿ
+fpython:S5797îN"HReplace this expression; used as a condition it will always be constant.(²Ş–—øÿÿÿÿ
+apython:S5797ÖO"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+apython:S5797è]"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+apython:S5797¤d"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+fpython:S5797›e"HReplace this expression; used as a condition it will always be constant.(²Ş–—øÿÿÿÿ
+fpython:S5797¶g"HReplace this expression; used as a condition it will always be constant.(²Ş–—øÿÿÿÿ
+fpython:S5797ºg"HReplace this expression; used as a condition it will always be constant.(²Ş–—øÿÿÿÿ
+fpython:S5797Óo"HReplace this expression; used as a condition it will always be constant.(€ÅÜıÿÿÿÿ
+apython:S5797Ÿr"HReplace this expression; used as a condition it will always be constant.(îÙÁ¾
+bpython:S5797¯„"HReplace this expression; used as a condition it will always be constant.(îÙÁ¾
+bpython:S5797ö’"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+bpython:S5797Ó“"HReplace this expression; used as a condition it will always be constant.(ŒÌ£ó
+bpython:S5797¬Ÿ"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+bpython:S5797ƒ¬"HReplace this expression; used as a condition it will always be constant.(¥´Â·
+Mpython:S1066ß"/Merge this if statement with the enclosing one.(•¸·üÿÿÿÿ
+Mpython:S1066­)"/Merge this if statement with the enclosing one.(úô¸‰şÿÿÿÿ
+Hpython:S1066e"/Merge this if statement with the enclosing one.(®¤• 
+Mpython:S1066w"/Merge this if statement with the enclosing one.(æ÷ıˆúÿÿÿÿ
+Npython:S1066Å†"/Merge this if statement with the enclosing one.(ŞÇ„¤ùÿÿÿÿ
+Ipython:S1066¢‹"/Merge this if statement with the enclosing one.(µÔñ£
+Ipython:S1066—“"/Merge this if statement with the enclosing one.(ş‰¬í
+Cpython:S5806#"+Rename this variable; it shadows a builtin.(´ÿ¡Ş
+]python:S34576"EAdd replacement fields or use a normal string instead of an f-string.(¸ûø¬
+]python:S3457´"EAdd replacement fields or use a normal string instead of an f-string.(›× e
+]python:S3457Ç"EAdd replacement fields or use a normal string instead of an f-string.(›× e
+^python:S3457Ö"EAdd replacement fields or use a normal string instead of an f-string.(—Ö°»
+^python:S3457æ"EAdd replacement fields or use a normal string instead of an f-string.(—Ö°»
+epython:S1134ë"LTake the required action to fix the issue indicated by this "FIXME" comment.(´Ó¼•
+Zpython:S5720Ç"<Rename "xref" to "self" or add the missing "self" parameter.(÷òÌîûÿÿÿÿ
+7python:S5719"Add a "self" or class parameter(Ü±¯j
+gpython:S100©"JRename method "_getAP" to match the regular expression ^[a-z_][a-z0-9_]*$.(¬¢»ùÿÿÿÿ
+bpython:S100¼"JRename method "_setAP" to match the regular expression ^[a-z_][a-z0-9_]*$.(æüåÔ
+Wpython:S3516Ğ"9Refactor this method to not always return the same value.(—ÈĞûÿÿÿÿ
+rpython:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(—ÈĞûÿÿÿÿ
+mpython:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Îš”°
+Dpython:S5806û"+Rename this variable; it shadows a builtin.(Üä«İ
+7python:S125›"Remove this commented out code.(¶Á»Ö
+7python:S125"Remove this commented out code.(ÃÁÿ
+Dpython:S5806¹"+Rename this variable; it shadows a builtin.(Üä«İ
+Jpython:S1172Ô",Remove the unused function parameter "clip".( €şáûÿÿÿÿ
+<python:S125„"Remove this commented out code.(åóÉòşÿÿÿÿ
+mpython:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(†¢’ö
+upython:S117©"XRename this parameter "creationDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶‰şÅøÿÿÿÿ
+ppython:S117©"SRename this parameter "modDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶‰şÅøÿÿÿÿ
+Dpython:S5806­	"+Rename this variable; it shadows a builtin.(Üä«İ
+npython:S3776Ô	"URefactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.(ö”–³
+Dpython:S5806ö"+Rename this variable; it shadows a builtin.(Üä«İ
+Cpython:S5806‡"+Rename this variable; it shadows a builtin.(ÿµ¸ 
+Xpython:S5720ñ"?Rename "subarch" to "self" or add the missing "self" parameter.(¡ÏÚ¡
+epython:S1763õ"GDelete this unreachable code or refactor the code to make it reachable.(Š§Êúÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(¥â¸àıÿÿÿÿ
+opython:S930Û"RRemove 1 unexpected arguments; '_add_arch' expects at most 1 positional arguments.(—‰‚ûÿÿÿÿ
+wpython:S1186‹"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ğ˜ıİùÿÿÿÿ
+bpython:S930‘"EAdd 1 missing arguments; 'isinstance' expects 2 positional arguments.(ì‘Ò­şÿÿÿÿ
+Dpython:S5806Æ"+Rename this variable; it shadows a builtin.(÷–‡í
+cpython:S3457"EAdd replacement fields or use a normal string instead of an f-string.(Í¿©¥ûÿÿÿÿ
+cpython:S3457‘"EAdd replacement fields or use a normal string instead of an f-string.(¼¾ë·ûÿÿÿÿ
+ppython:S107é"SMethod "set_properties" has 18 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+mpython:S3776è"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ç¸Œò
+[python:S112¡">Replace this generic exception class with a more specific one.(øöÉ“øÿÿÿÿ
+Kpython:S1940¦"-Use the opposite operator ("is not") instead.(’À“²ÿÿÿÿÿ
+spython:S116«"VRename this field "InsertedImages" to match the regular expression ^[_a-z][_a-z0-9]*$.(á€â›øÿÿÿÿ
+npython:S116¨"QRename this field "FontInfos" to match the regular expression ^[_a-z][_a-z0-9]*$.(é¡õ¾ùÿÿÿÿ
+jpython:S116ª"RRename this field "ShownPages" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ğş«×
+ipython:S116©"QRename this field "Graftmaps" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ã´·ª
+†python:S117¡"iRename this local variable "JM_mupdf_show_errors_old" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëáĞ®ıÿÿÿÿ
+npython:S3776"URefactor this function to reduce its Cognitive Complexity from 145 to the 15 allowed.(êË
+Apython:S108¸")Either remove or fill this block of code.(ã‘Û¾
+dpython:S1134…"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ñ©ûr
+<python:S125–"Remove this commented out code.(šĞËúúÿÿÿÿ
+epython:S1134¸"LTake the required action to fix the issue indicated by this "FIXME" comment.(×¼à­
+mpython:S100ß"PRename method "_addFormFont" to match the regular expression ^[a-z_][a-z0-9_]*$.(¯Òê«şÿÿÿÿ
+cpython:S100ó"KRename method "_delToC" to match the regular expression ^[a-z_][a-z0-9_]*$.(èë’“
+ipython:S100™"QRename method "_deleteObject" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦ÛåÎ
+qpython:S100¡"TRename method "_embeddedFileGet" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡«Üáùÿÿÿÿ
+npython:S100°"VRename method "_embeddedFileIndex" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ü²í÷
+Cpython:S5806À"+Rename this variable; it shadows a builtin.(ÿµ¸ 
+mpython:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(”àö
+<python:S125™"Remove this commented out code.(˜”µøÿÿÿÿ
+Dpython:S1172œ"+Remove the unused function parameter "ext".(™’°û
+[python:S112¬">Replace this generic exception class with a more specific one.(‚ªÍªøÿÿÿÿ
+mpython:S100Û"PRename method "_getMetadata" to match the regular expression ^[a-z_][a-z0-9_]*$.(’¾ÂÊşÿÿÿÿ
+qpython:S100ã"TRename method "_getOLRootNumber" to match the regular expression ^[a-z_][a-z0-9_]*$.(€ºàœûÿÿÿÿ
+npython:S100õ"QRename method "_getPDFfileid" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùó¾òşÿÿÿÿ
+wpython:S117‹"ZRename this local variable "pageCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ„³²ıÿÿÿÿ
+gpython:S100…"PRename method "_getPageInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(åÁÕ[
+hpython:S100¥"PRename method "_loadOutline" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢Ôú¾
+cpython:S3457´"EAdd replacement fields or use a normal string instead of an f-string.(¾”ƒ‘øÿÿÿÿ
+Hpython:S1481Â"/Replace unused local variable "page2" with "_".(ğÄ½Ë
+mpython:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ö† ù
+dpython:S100ï"LRename method "_newPage" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥ÄŞ¦
+jpython:S1134ƒ"LTake the required action to fix the issue indicated by this "FIXME" comment.(ààüÿÿÿÿ
+>python:S1481“"%Remove the unused local variable "i".(¹½ğ
+epython:S100Ì"MRename method "FormFonts" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚”Ó
+lpython:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(íÊ»R
+7python:S125Ú"Remove this commented out code.(–Áš
+7python:S125İ"Remove this commented out code.(‡úÓ²
+<python:S125ß"Remove this commented out code.(æ‰½Õıÿÿÿÿ
+vpython:S117ë"YRename this local variable "srcCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸œ™Ãıÿÿÿÿ
+mpython:S3776·"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(·­„¶
+mpython:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¹º®
+fpython:S1854È"HRemove this assignment to local variable 'res'; the value is never used.(Í¼çæûÿÿÿÿ
+fpython:S1854Ä"HRemove this assignment to local variable 'res'; the value is never used.(Í¼çæûÿÿÿÿ
+ipython:S107ÿ"LMethod "ez_save" has 16 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+7python:S125×"Remove this commented out code.(Õ‹ Â
+rpython:S3776£ "TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÄÔñ‰ÿÿÿÿÿ
+xpython:S5886ç "_Return a value of type "list" instead of "tuple" or update function "get_page_fonts" type hint.(Ø®‰
+ypython:S5886ù "`Return a value of type "list" instead of "tuple" or update function "get_page_images" type hint.(Ø®‰
+{python:S5886…!"bReturn a value of type "list" instead of "tuple" or update function "get_page_xobjects" type hint.(Ø®‰
+vpython:S117¸""YRename this local variable "outCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷…İÙúÿÿÿÿ
+vpython:S117¹""YRename this local variable "srcCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î¨™ñşÿÿÿÿ
+mpython:S3776ë!"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(×˜ã›
+kpython:S1226ö!"MIntroduce a new variable or use its initial value before reassigning '_gmap'.(•ç´Öüÿÿÿÿ
+fpython:S1854û$"HRemove this assignment to local variable 'loc'; the value is never used.(é‹¸ìÿÿÿÿÿ
+upython:S5886‘%"\Return a value of type "dict" instead of "NoneType" or update function "markinfo" type hint.(ò¤Ÿù
+rpython:S3776%"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(±ğ™Ïúÿÿÿÿ
+/python:S6659œ%"Use `startswith` here.(Æö
+-python:S6659œ%"Use `endswith` here.(Æö
+vpython:S5886Í&"]Return a value of type "str" instead of "NoneType" or update function "pagelayout" type hint.(ò¤Ÿù
+tpython:S5886Û&"[Return a value of type "str" instead of "NoneType" or update function "pagemode" type hint.(ò¤Ÿù
+<python:S125á'"Remove this commented out code.(ö€‚Íıÿÿÿÿ
+mpython:S3776Š("TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ö‚Ú
+fpython:S107ˆ)"IMethod "save" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+rpython:S3776‡)"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¥Ş†Ìşÿÿÿÿ
+Apython:S108¡)")Either remove or fill this block of code.(ã‘Û¾
+Apython:S108õ)")Either remove or fill this block of code.(ã‘Û¾
+ipython:S100‚*"LRename method "saveIncr" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼×şãûÿÿÿÿ
+rpython:S3776©*"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(¼×ı´úÿÿÿÿ
+Fpython:S1940Ê*"-Use the opposite operator ("not in") instead.(“ªÅƒ
+epython:S930ä+"HRemove 1 unexpected arguments; 'RAISEPY' expects 2 positional arguments.(úş«èúÿÿÿÿ
+Ipython:S1172ì+"+Remove the unused function parameter "new".(ø˜õşÿÿÿÿÿ
+gpython:S107‰,"JMethod "write" has 16 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+rpython:S3776¸,"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(·Æ·†ÿÿÿÿÿ
+Cpython:S5806Ê,"+Rename this variable; it shadows a builtin.(Á˜şL
+7python:S125Ç-"Remove this commented out code.(Á°íÃ
+Apython:S108§.")Either remove or fill this block of code.(ã‘Û¾
+rpython:S3776Ï."TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú„Úüùÿÿÿÿ
+Dpython:S1172…/"+Remove the unused function parameter "arr".(ŒÈç»
+jpython:S1134†/"LTake the required action to fix the issue indicated by this "FIXME" comment.(èÎÃòøÿÿÿÿ
+<python:S125ˆ/"Remove this commented out code.(üìÍşÿÿÿÿ
+rpython:S3776°/"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ò‹˜«ùÿÿÿÿ
+Lpython:S1481ı/".Replace unused local variable "font" with "_".(ÅŒäÍıÿÿÿÿ
+epython:S1763˜0"GDelete this unreachable code or refactor the code to make it reachable.(ı…³£øÿÿÿÿ
+epython:S1763Ë0"GDelete this unreachable code or refactor the code to make it reachable.(ç‘Ÿ—øÿÿÿÿ
+epython:S1134Ê0"LTake the required action to fix the issue indicated by this "FIXME" comment.(×®ÖÇ
+Fpython:S1940Ö0"-Use the opposite operator ("is not") instead.(ÆÈÍ˜
+spython:S4144î0"ZUpdate this function so that its implementation is not identical to __repr__ on line 6250.(ŒüÂ¶
+kpython:S100Š1"NRename method "_setBorder" to match the regular expression ^[a-z_][a-z0-9_]*$.(ñößşÿÿÿÿ
+Vpython:S112å1">Replace this generic exception class with a more specific one.(©ë´
+Kpython:S19402"-Use the opposite operator ("is not") instead.(Åöƒ‰ÿÿÿÿÿ
+rpython:S3776¸2"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(á´’áüÿÿÿÿ
+6python:S3626•3"Remove this redundant return.(ÙãŞŸ
+Apython:S108Ê3")Either remove or fill this block of code.(ã‘Û¾
+python:S101«4"bRename class "linkDest" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(æˆæ»ùÿÿÿÿ
+npython:S117¯4"VRename this local variable "isExt" to match the regular expression ^[_a-z][a-z0-9_]*$.(×óÜÕ
+mpython:S117°4"VRename this local variable "isInt" to match the regular expression ^[_a-z][a-z0-9_]*$.(•œæK
+rpython:S3776®4"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(ôÑ™Ïşÿÿÿÿ
+Ipython:S1172¾4"+Remove the unused function parameter "uri".(â®ü¦şÿÿÿÿ
+Ypython:S6353Õ4";Use concise character class syntax '\d' instead of '[0-9]'.(œ­¼·ÿÿÿÿÿ
+Tpython:S6353Û4";Use concise character class syntax '\d' instead of '[0-9]'.(¢£å
+Apython:S108ñ4")Either remove or fill this block of code.(ã‘Û¾
+epython:S1763³5"GDelete this unreachable code or refactor the code to make it reachable.(°÷Éªşÿÿÿÿ
+6python:S3626Á5"Remove this redundant return.(ÙãŞŸ
+6python:S3626õ5"Remove this redundant return.(ÙãŞŸ
+8python:S3626ğ5"Remove this redundant continue.(À–¬ˆ
+mpython:S3776÷5"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Â“³”
+upython:S1542‚8"\Rename function "_make_PdfFilterOptions" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÜÁØ“
+cpython:S3457¨8"EAdd replacement fields or use a normal string instead of an f-string.(´¹æ­ûÿÿÿÿ
+epython:S1763Ô8"GDelete this unreachable code or refactor the code to make it reachable.(ïÇş“şÿÿÿÿ
+Epython:S1862ğ8",This branch duplicates the one on line 7278.(â½Ó
+Ppython:S1172œ:"2Remove the unused function parameter "text_color".(¿­Ô÷üÿÿÿÿ
+apython:S1854:"IRemove this assignment to local variable 'fcol'; the value is never used.(Ÿ”¨
+Rpython:S1135£:"4Complete the task associated to this "TODO" comment.(ßµ†Şşÿÿÿÿ
+ppython:S100Œ;"XRename method "_addAnnot_FromString" to match the regular expression ^[a-z_][a-z0-9_]*$.(Û´Ë
+opython:S930¥;"RRemove 1 unexpected arguments; 'PySys_WriteStderr' expects 1 positional arguments.(ÌÓ¸„ûÿÿÿÿ
+kpython:S100¯;"NRename method "_addWidget" to match the regular expression ^[a-z_][a-z0-9_]*$.(Â‹Ïøÿÿÿÿ
+5python:S2772Ç;"Remove this unneeded "pass".(ã‘Û¾
+gpython:S1854ô;"IRemove this assignment to local variable 'rect'; the value is never used.(Ûâô•üÿÿÿÿ
+Apython:S108ı;")Either remove or fill this block of code.(ã‘Û¾
+Kpython:S1172‰<"-Remove the unused function parameter "alpha".(æ¾¾´ıÿÿÿÿ
+opython:S107†<"RMethod "_insert_image" has 15 parameters, which is greater than the 13 authorized.(ÕËõúÿÿÿÿ
+rpython:S3776†<"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(ÕËõúÿÿÿÿ
+epython:S1134İ="LTake the required action to fix the issue indicated by this "FIXME" comment.(›åÜ’
+<python:S125ß="Remove this commented out code.(ÌÉ³öÿÿÿÿÿ
+lpython:S100è="ORename method "_insertFont" to match the regular expression ^[a-z_][a-z0-9_]*$.(´Ñªåúÿÿÿÿ
+lpython:S100…>"ORename method "_makePixmap" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÃŞğÄøÿÿÿÿ
+fpython:S117¡>"NRename this parameter "CA" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸÙ¶¸
+lpython:S117¥>"TRename this local variable "tCA" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëŠ·
+gpython:S1226¡>"NIntroduce a new variable or use its initial value before reassigning 'gstate'.(ŸÙ¶¸
+mpython:S3776ª@"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¶âõê
+xpython:S5886£A"_Return a value of type "Annot" instead of "NoneType" or update function "add_widget" type hint.(ò¤Ÿù
+rpython:S3776·B"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ìº‰Ôıÿÿÿÿ
+5python:S2772ÆB"Remove this unneeded "pass".(ã‘Û¾
+`python:S1763¡D"GDelete this unreachable code or refactor the code to make it reachable.(²êšô
+rpython:S3776ñC"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(“ø†¸ıÿÿÿÿ
+>python:S5603¡D"%Remove this unused class declaration.(²êšô
+>python:S5603¦D"%Remove this unused class declaration.(§™ª³
+Fpython:S5603E"(Remove this unused function declaration.(ˆ„´±úÿÿÿÿ
+mpython:S3776´E"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(¢ß«Ò
+Epython:S1940ÈE"-Use the opposite operator ("is not") instead.(™ºàU
+xpython:S117úF"[Rename this local variable "CJK_list_n" to match the regular expression ^[_a-z][a-z0-9_]*$.(±®İ³øÿÿÿÿ
+spython:S117ûF"[Rename this local variable "CJK_list_s" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹´÷
+xpython:S117ùF"[Rename this local variable "CJK_number" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ù¬µûÿÿÿÿ
+rpython:S3776ÜF"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(‰Ùøªÿÿÿÿÿ
+5python:S2772ƒG"Remove this unneeded "pass".(ã‘Û¾
+5python:S2772ŒG"Remove this unneeded "pass".(ã‘Û¾
+<python:S125©H"Remove this commented out code.(‡¡Üúÿÿÿÿ
+jpython:S1134¹H"LTake the required action to fix the issue indicated by this "FIXME" comment.(‰…Õêûÿÿÿÿ
+jpython:S1134 I"LTake the required action to fix the issue indicated by this "FIXME" comment.(åí÷µşÿÿÿÿ
+<python:S125»I"Remove this commented out code.(ë¶ö½ÿÿÿÿÿ
+Ipython:S935øK",Return a value of type `str` in this method.(ƒÚû¬ûÿÿÿÿ
+gpython:S1854¯J"IRemove this assignment to local variable 'bbox'; the value is never used.( õ—øüÿÿÿÿ
+gpython:S1854²J"IRemove this assignment to local variable 'bbox'; the value is never used.(œû‘ùÿÿÿÿ
+Ipython:S1481§K"+Replace unused local variable "c" with "_".(Ş¨Îúûÿÿÿÿ
+spython:S3776ØI"URefactor this function to reduce its Cognitive Complexity from 135 to the 15 allowed.( üàıÿÿÿÿ
+Apython:S108æI")Either remove or fill this block of code.(ã‘Û¾
+Jpython:S1862ßJ",This branch duplicates the one on line 9562.(¼  áúÿÿÿÿ
+<python:S125…K"Remove this commented out code.(Ü·¨¹ÿÿÿÿÿ
+Vpython:S112íK">Replace this generic exception class with a more specific one.(§Í¥
+Kpython:S1940øK"-Use the opposite operator ("is not") instead.(ƒÚû¬ûÿÿÿÿ
+dpython:S100–L"MRename method "_writeIMG" to match the regular expression ^[a-z_][a-z0-9_]*$.(â©¸c
+Apython:S108«N")Either remove or fill this block of code.(ã‘Û¾
+lpython:S3776¿N"TRefactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.(Ûú6
+jpython:S1134åN"LTake the required action to fix the issue indicated by this "FIXME" comment.(—ŒîÇÿÿÿÿÿ
+lpython:S3776ĞP"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(İêÅn
+mpython:S3776¨Q"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ç®˜£
+Bpython:S1940ªQ")Use the opposite operator ("<=") instead.(«ÓÀâ
+Apython:S108ÈS")Either remove or fill this block of code.(ã‘Û¾
+Gpython:S1940ƒU")Use the opposite operator ("!=") instead.(§–Ò‡øÿÿÿÿ
+Bpython:S1940ßU")Use the opposite operator ("!=") instead.(„¨ìú
+6python:S3626V"Remove this redundant return.(ÙãŞŸ
+Bpython:S1940«V")Use the opposite operator ("!=") instead.(µ˜–
+Bpython:S1940¹V")Use the opposite operator ("<=") instead.(Ì‹÷š
+Bpython:S1940ÒV")Use the opposite operator ("!=") instead.(µ˜–
+Bpython:S1940éV")Use the opposite operator ("!=") instead.(›Ğ†™
+Bpython:S1940øV")Use the opposite operator ("!=") instead.(†ËÀ
+npython:S117–W"VRename this parameter "fullSector" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÿ¶“
+Bpython:S1940¤W")Use the opposite operator ("!=") instead.(¼áªê
+Gpython:S1940­W")Use the opposite operator ("<=") instead.(·À¨ãıÿÿÿÿ
+6python:S3626öX"Remove this redundant return.(ÙãŞŸ
+mpython:S117§X"URename this parameter "closePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ëòÁ
+ppython:S117¢X"SRename this parameter "lineCap" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹í£Íşÿÿÿÿ
+lpython:S117£X"TRename this parameter "lineJoin" to match the regular expression ^[_a-z][a-z0-9_]*$.(å•Œ±
+rpython:S3776X"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(˜É¸”ûÿÿÿÿ
+7python:S125ºX"Remove this commented out code.(®ÚŒö
+jpython:S117ùX"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑÈÃïüÿÿÿÿ
+jpython:S117ùX"MRename this parameter "P" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑÈÃïüÿÿÿÿ
+mpython:S107Y"PMethod "insert_text" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+mpython:S3776ŒY"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÔîøÉ
+Gpython:S1940©Y")Use the opposite operator ("<=") instead.(¬ÿšƒşÿÿÿÿ
+bpython:S1854\"IRemove this assignment to local variable 'rest'; the value is never used.(ÃĞÔµ
+ppython:S107ÄZ"SMethod "insert_textbox" has 19 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+mpython:S3776ÃZ"TRefactor this function to reduce its Cognitive Complexity from 98 to the 15 allowed.(ÌÎµ¤
+Jpython:S1481î]",Replace unused local variable "y1" with "_".(ƒ¹ª—øÿÿÿÿ
+Jpython:S1481î]",Replace unused local variable "x1" with "_".(ƒ¹ª—øÿÿÿÿ
+rpython:S3776®]"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(×¬¿÷şÿÿÿÿ
+cpython:S3457é]"EAdd replacement fields or use a normal string instead of an f-string.(ğ¾˜Áÿÿÿÿÿ
+cpython:S3457ë]"EAdd replacement fields or use a normal string instead of an f-string.(²ûŞĞşÿÿÿÿ
+mpython:S3776¹^"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(…ìÈÎ
+ºpython:S1515É^"›Add a parameter to function "positionfn2" and use variable "page_num" as its default value;The value of "page_num" might change at the next loop iteration.(…Ñ àûÿÿÿÿ
+¶python:S1515õ^"—Add a parameter to function "positionfn2" and use variable "stable" as its default value;The value of "stable" might change at the next loop iteration.(øÖÙ…şÿÿÿÿ
+·python:S1515ô^"Add a parameter to function "positionfn2" and use variable "positions" as its default value;The value of "positions" might change at the next loop iteration.(ë–˜„
+rpython:S3776Ä_"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(‹­–Ñùÿÿÿÿ
+cpython:S3457ş_"EAdd replacement fields or use a normal string instead of an f-string.(ÎëÄœúÿÿÿÿ
+^python:S3457•`"EAdd replacement fields or use a normal string instead of an f-string.(ŠÆ£Ú
+^python:S3457º`"EAdd replacement fields or use a normal string instead of an f-string.(Š²–Ë
+^python:S3457Ç`"EAdd replacement fields or use a normal string instead of an f-string.(’ß¢•
+python:S1845d"pRename field "extractTEXT" to prevent any misunderstanding/clash with method "extractText" defined on line 12685(ºã²Úüÿÿÿÿ
+ppython:S116d"SRename this field "extractTEXT" to match the regular expression ^[_a-z][_a-z0-9]*$.(ºã²Úüÿÿÿÿ
+Vpython:S112ºa">Replace this generic exception class with a more specific one.(Éÿ¿­
+hpython:S100¾a"PRename method "_extractText" to match the regular expression ^[a-z_][a-z0-9_]*$.(Œæ¡
+jpython:S1134Âa"LTake the required action to fix the issue indicated by this "FIXME" comment.(üÛ¯ûÿÿÿÿ
+lpython:S100Òa"TRename method "_getNewBlockList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å£üä
+npython:S100Úa"QRename method "extractBLOCKS" to match the regular expression ^[a-z_][a-z0-9_]*$.(×óå•úÿÿÿÿ
+Cpython:S1481èa"*Remove the unused local variable "line_n".(‹ÃÓï
+rpython:S3776Úa"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(×óå•úÿÿÿÿ
+lpython:S100‘b"ORename method "extractDICT" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨’éöùÿÿÿÿ
+gpython:S100b"ORename method "extractHTML" to match the regular expression ^[a-z_][a-z0-9_]*$.(öÒÆú
+opython:S100¡b"RRename method "extractIMGINFO" to match the regular expression ^[a-z_][a-z0-9_]*$.(Îş¼¸ıÿÿÿÿ
+Dpython:S1481¹b"+Replace unused local variable "w" with "_".( ¾Ö
+Dpython:S1481¹b"+Replace unused local variable "h" with "_".( ¾Ö
+rpython:S3776¡b"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Îş¼¸ıÿÿÿÿ
+lpython:S100Ğb"ORename method "extractJSON" to match the regular expression ^[a-z_][a-z0-9_]*$.(ª¶¼±ÿÿÿÿÿ
+opython:S100æb"RRename method "extractRAWDICT" to match the regular expression ^[a-z_][a-z0-9_]*$.(ä’–îşÿÿÿÿ
+opython:S100òb"RRename method "extractRAWJSON" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚ßÍÌùÿÿÿÿ
+qpython:S100‡c"TRename method "extractSelection" to match the regular expression ^[a-z_][a-z0-9_]*$.(°©¼Æøÿÿÿÿ
+lpython:S100c"ORename method "extractText" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŒÔ°”ùÿÿÿÿ
+opython:S100•c"RRename method "extractTextbox" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å¼Šåúÿÿÿÿ
+mpython:S100c"PRename method "extractWORDS" to match the regular expression ^[a-z_][a-z0-9_]*$.(ê¢‰Àÿÿÿÿÿ
+rpython:S3776c"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ê¢‰Àÿÿÿÿÿ
+hpython:S100Íc"PRename method "extractXHTML" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÏíÆ
+fpython:S100Ñc"NRename method "extractXML" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ô¦Á
+Hpython:S1172çc"/Remove the unused function parameter "hit_max".(Ê© ì
+mpython:S3776ÿd"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(»‘¾ˆ
+<python:S125Ág"Remove this commented out code.(Ê›Èøÿÿÿÿ
+<python:S125Íg"Remove this commented out code.(Ê›Èøÿÿÿÿ
+7python:S125İg"Remove this commented out code.(„¶Ê¥
+jpython:S1134±n"LTake the required action to fix the issue indicated by this "FIXME" comment.(Şº³‘ûÿÿÿÿ
+gpython:S1542¹n"NRename function "_INRANGE" to match the regular expression ^[a-z_][a-z0-9_]*$.(›¼…¡
+rpython:S3776½n"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(¯“Ì’üÿÿÿÿ
+npython:S1542án"PRename function "ASSERT_PDF" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜·şÿÿÿÿ
+[python:S112än">Replace this generic exception class with a more specific one.(ç–µ¨ûÿÿÿÿ
+jpython:S1542çn"QRename function "EMPTY_IRECT" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÛëÂ
+ipython:S1542ën"PRename function "EMPTY_QUAD" to match the regular expression ^[a-z_][a-z0-9_]*$.(³Çªò
+ipython:S1542ïn"PRename function "EMPTY_RECT" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŞÒí´
+tpython:S1542ón"VRename function "ENSURE_OPERATION" to match the regular expression ^[a-z_][a-z0-9_]*$.(âëÈ”øÿÿÿÿ
+Vpython:S112õn">Replace this generic exception class with a more specific one.(¦©£¶
+rpython:S1542øn"TRename function "INFINITE_IRECT" to match the regular expression ^[a-z_][a-z0-9_]*$.(àÎ…ùÿÿÿÿ
+lpython:S1542ün"SRename function "INFINITE_QUAD" to match the regular expression ^[a-z_][a-z0-9_]*$.(ØäË
+qpython:S1542€o"SRename function "INFINITE_RECT" to match the regular expression ^[a-z_][a-z0-9_]*$.(µ€­Ëşÿÿÿÿ
+tpython:S1542„o"VRename function "JM_BinFromBuffer" to match the regular expression ^[a-z_][a-z0-9_]*$.(ûú™¹şÿÿÿÿ
+wpython:S1542o"YRename function "JM_EscapeStrFromStr" to match the regular expression ^[a-z_][a-z0-9_]*$.(õÃßëıÿÿÿÿ
+vpython:S1542ªo"XRename function "JM_BufferFromBytes" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜’¼¥şÿÿÿÿ
+Vpython:S112¶o">Replace this generic exception class with a more specific one.(» Ü×
+lpython:S1542¼o"SRename function "JM_FLOAT_ITEM" to match the regular expression ^[a-z_][a-z0-9_]*$.(´ô¥‡
+jpython:S1542Áo"QRename function "JM_INT_ITEM" to match the regular expression ^[a-z_][a-z0-9_]*$.(úåéÁ
+rpython:S1542Éo"YRename function "JM_pixmap_from_page" to match the regular expression ^[a-z_][a-z0-9_]*$.(­·¹É
+mpython:S3776Éo"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(­·¹É
+epython:S1134Òo"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ó¸á±
+kpython:S1542p"RRename function "JM_StrAsChar" to match the regular expression ^[a-z_][a-z0-9_]*$.(’›Ğä
+jpython:S1134p"LTake the required action to fix the issue indicated by this "FIXME" comment.(ä„Í“ûÿÿÿÿ
+<python:S125’p"Remove this commented out code.(ª‹‚Œÿÿÿÿÿ
+lpython:S1542•p"NRename function "JM_TUPLE" to match the regular expression ^[a-z_][a-z0-9_]*$.(“×¾Êûÿÿÿÿ
+hpython:S1542™p"ORename function "JM_TUPLE3" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰Ø£·
+upython:S1542p"WRename function "JM_UnicodeFromStr" to match the regular expression ^[a-z_][a-z0-9_]*$.(Í¿ –şÿÿÿÿ
+npython:S1542¦p"URename function "JM_add_annot_id" to match the regular expression ^[a-z_][a-z0-9_]*$.(ä®š
+tpython:S1542»p"VRename function "JM_add_oc_object" to match the regular expression ^[a-z_][a-z0-9_]*$.(ûÉÒøÿÿÿÿ
+npython:S1542Ëp"URename function "JM_annot_border" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰½¸•
+spython:S1542óp"URename function "JM_annot_colors" to match the regular expression ^[a-z_][a-z0-9_]*$.(€•ÈÅûÿÿÿÿ
+wpython:S1542Šq"YRename function "JM_annot_set_border" to match the regular expression ^[a-z_][a-z0-9_]*$.(×¶ïˆøÿÿÿÿ
+rpython:S1542Íq"TRename function "JM_append_rune" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦ºÒÊøÿÿÿÿ
+mpython:S1542Ôq"TRename function "JM_append_word" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆ¬åÁ
+kpython:S117çq"NRename this parameter "ON" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü©Õøÿÿÿÿ
+wpython:S1542çq"YRename function "JM_add_layer_config" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü©Õøÿÿÿÿ
+Apython:S108öq")Either remove or fill this block of code.(ã‘Û¾
+ppython:S1542…r"RRename function "JM_char_bbox" to match the regular expression ^[a-z_][a-z0-9_]*$.(³Õ«…ıÿÿÿÿ
+vpython:S1542’r"XRename function "JM_char_font_flags" to match the regular expression ^[a-z_][a-z0-9_]*$.(â‚‘”şÿÿÿÿ
+ipython:S1854·r"KRemove this assignment to local variable 'fwidth'; the value is never used.(‡İÿ“úÿÿÿÿ
+hpython:S1854­r"JRemove this assignment to local variable 'fsize'; the value is never used.(ç®ã¼ıÿÿÿÿ
+ppython:S1542›r"RRename function "JM_char_quad" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÕõƒÇúÿÿÿÿ
+rpython:S3776›r"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÕõƒÇúÿÿÿÿ
+upython:S1542ôr"WRename function "JM_choice_options" to match the regular expression ^[a-z_][a-z0-9_]*$.(“Ï¥Ğøÿÿÿÿ
+rpython:S3776ôr"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(“Ï¥Ğøÿÿÿÿ
+Opython:S1172€s"1Remove the unused function parameter "exportval".(º½‘¯ÿÿÿÿÿ
+ƒpython:S1542¬s"eRename function "JM_clear_pixmap_rect_with_value" to match the regular expression ^[a-z_][a-z0-9_]*$.(Î”¨¸ùÿÿÿÿ
+Cpython:S1481Ós"%Remove the unused local variable "k".(ËçÎÄùÿÿÿÿ
+>python:S1481¾s"%Remove the unused local variable "x".(è‚ª›
+rpython:S3776¬s"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Î”¨¸ùÿÿÿÿ
+ypython:S1542ãs"[Rename function "JM_color_FromSequence" to match the regular expression ^[a-z_][a-z0-9_]*$.(şÅ‘ûÿÿÿÿ
+lpython:S1542õs"TRename function "JM_color_count" to match the regular expression ^[a-z_][a-z0-9_]*$.(µÍ
+>python:S1481„t"%Remove the unused local variable "i".(á®š
+vpython:S1542št"XRename function "JM_compress_buffer" to match the regular expression ^[a-z_][a-z0-9_]*$.(„ôÓ¬ûÿÿÿÿ
+ppython:S1542ªt"WRename function "JM_copy_rectangle" to match the regular expression ^[a-z_][a-z0-9_]*$.(û¬¿®
+mpython:S3776ªt"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(û¬¿®
+upython:S1542Át"WRename function "JM_convert_to_pdf" to match the regular expression ^[a-z_][a-z0-9_]*$.(Í´£çúÿÿÿÿ
+tpython:S1542õt"VRename function "JM_create_widget" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼Ëƒ»ûÿÿÿÿ
+<python:S125÷t"Remove this commented out code.(òˆ­¡úÿÿÿÿ
+npython:S1542§u"PRename function "JM_cropbox" to match the regular expression ^[a-z_][a-z0-9_]*$.(…º÷×üÿÿÿÿ
+spython:S1542»u"URename function "JM_cropbox_size" to match the regular expression ^[a-z_][a-z0-9_]*$.(§íùÜúÿÿÿÿ
+{python:S1542Ãu"]Rename function "JM_derotate_page_matrix" to match the regular expression ^[a-z_][a-z0-9_]*$.(™»„³úÿÿÿÿ
+lpython:S1542Ëu"SRename function "JM_embed_file" to match the regular expression ^[a-z_][a-z0-9_]*$.(àÍÚ‚
+ppython:S1542ğu"WRename function "JM_embedded_clean" to match the regular expression ^[a-z_][a-z0-9_]*$.(––ŸÔ
+upython:S1542ˆv"\Rename function "JM_EscapeStrFromBuffer" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü‡Ÿ¦
+vpython:S1542v"XRename function "JM_ensure_identity" to match the regular expression ^[a-z_][a-z0-9_]*$.(äÁûÿÿÿÿ
+upython:S1542 v"\Rename function "JM_ensure_ocproperties" to match the regular expression ^[a-z_][a-z0-9_]*$.(”§šŠ
+npython:S1542²v"URename function "JM_expand_fname" to match the regular expression ^[a-z_][a-z0-9_]*$.(İñ¯
+vpython:S1542Âv"XRename function "JM_field_type_text" to match the regular expression ^[a-z_][a-z0-9_]*$.(€£”ùÿÿÿÿ
+‚python:S1542×v"dRename function "JM_fill_pixmap_rect_with_color" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒş˜•şÿÿÿÿ
+>python:S1481ãv"%Remove the unused local variable "x".(½“¹ã
+ppython:S1542îv"WRename function "JM_find_annot_irt" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÄÏõ±
+npython:S1542‰w"VRename function "JM_font_ascender" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡÷„m
+ppython:S1542“w"WRename function "JM_font_descender" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼‘¦‰
+spython:S1542w"ZRename function "JM_is_word_delimiter" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ì¯ÖÁ
+jpython:S1542¬w"RRename function "JM_font_name" to match the regular expression ^[a-z_][a-z0-9_]*$.(’Ê.
+npython:S1542µw"URename function "JM_gather_fonts" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü¨ËÁ
+spython:S1542Úw"URename function "JM_gather_forms" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğ—§ıÿÿÿÿ
+Dpython:S1172‚x"+Remove the unused function parameter "doc".(¿ú‚ß
+opython:S1542‚x"VRename function "JM_gather_images" to match the regular expression ^[a-z_][a-z0-9_]*$.(¿ú‚ß
+mpython:S3776‚x"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿ú‚ß
+xpython:S1542¼x"ZRename function "JM_get_annot_by_xref" to match the regular expression ^[a-z_][a-z0-9_]*$.(ß…–ˆüÿÿÿÿ
+Vpython:S112Ìx">Replace this generic exception class with a more specific one.(‚³§§
+xpython:S1542Ğx"ZRename function "JM_get_annot_by_name" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ê¢øÖûÿÿÿÿ
+Gpython:S1481Şx".Replace unused local variable "len_" with "_".(Û‹†Ç
+[python:S112äx">Replace this generic exception class with a more specific one.(‡½åÈşÿÿÿÿ
+xpython:S1542èx"ZRename function "JM_get_annot_id_list" to match the regular expression ^[a-z_][a-z0-9_]*$.(û¹ìûÿÿÿÿ
+zpython:S1542öx"\Rename function "JM_get_annot_xref_list" to match the regular expression ^[a-z_][a-z0-9_]*$.(ö®Ïùÿÿÿÿ
+wpython:S1542y"YRename function "JM_get_border_style" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥ÃöÒüÿÿÿÿ
+jpython:S1542Ÿy"QRename function "JM_get_font" to match the regular expression ^[a-z_][a-z0-9_]*$.(³­íÒ
+ppython:S1542İy"WRename function "JM_get_fontbuffer" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷çÃÛ
+mpython:S3776İy"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷çÃÛ
+cpython:S3457ìy"EAdd replacement fields or use a normal string instead of an f-string.(ÆóáŒûÿÿÿÿ
+7python:S125õy"Remove this commented out code.(Ò™ù¥
+<python:S125ùy"Remove this commented out code.(ò­¼şÿÿÿÿ
+ypython:S1542”z"`Rename function "JM_get_resource_properties" to match the regular expression ^[a-z_][a-z0-9_]*$.(©±ç
+tpython:S1542ªz"[Rename function "JM_get_widget_by_xref" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥Ù•¯
+Vpython:S112·z">Replace this generic exception class with a more specific one.(µÌ¶Ì
+jpython:S117»z"RRename this parameter "Widget" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÁ˜å
+wpython:S1542»z"^Rename function "JM_get_widget_properties" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùÁ˜å
+mpython:S3776»z"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ùÁ˜å
+kpython:S1542Çz"MRename function "SETATTR" to match the regular expression ^[a-z_][a-z0-9_]*$.(éªÎ‡øÿÿÿÿ
+ppython:S1542Êz"RRename function "SETATTR_DROP" to match the regular expression ^[a-z_][a-z0-9_]*$.(“œúÿÿÿÿ
+spython:S1542Á{"ZRename function "JM_get_fontextension" to match the regular expression ^[a-z_][a-z0-9_]*$.(§Öº–
+opython:S930è{"RRemove 1 unexpected arguments; 'PySys_WriteStdout' expects 1 positional arguments.(ªûŠ¹üÿÿÿÿ
+ypython:S1542í{"[Rename function "JM_get_ocg_arrays_imp" to match the regular expression ^[a-z_][a-z0-9_]*$.(Øš‡ùÿÿÿÿ
+upython:S1542ı{"WRename function "JM_get_ocg_arrays" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒåéÚúÿÿÿÿ
+vpython:S1542|"XRename function "JM_get_page_labels" to match the regular expression ^[a-z_][a-z0-9_]*$.(¿îú¯ûÿÿÿÿ
+6python:S3626Ç|"Remove this redundant return.(ÙãŞŸ
+qpython:S1542«|"SRename function "JM_get_script" to match the regular expression ^[a-z_][a-z0-9_]*$.(øƒØ®ÿÿÿÿÿ
+ppython:S1542Ê|"WRename function "JM_have_operation" to match the regular expression ^[a-z_][a-z0-9_]*$.( ü¹Ç
+ppython:S1542Ó|"XRename function "JM_image_extension" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ï¿„L
+<python:S125å|"Remove this commented out code.(¿¯Ğüıÿÿÿÿ
+dpython:S1134é|"LTake the required action to fix the issue indicated by this "FIXME" comment.(¬ğ„g
+Fpython:S1172í|"-Remove the unused function parameter "image".(“¤ÇÅ
+Gpython:S1172í|".Remove the unused function parameter "opaque".(“¤ÇÅ
+npython:S1542í|"URename function "JM_image_filter" to match the regular expression ^[a-z_][a-z0-9_]*$.(“¤ÇÅ
+tpython:S1542ö|"VRename function "JM_image_profile" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾¤Ñ£úÿÿÿÿ
+ppython:S1542¬}"WRename function "JM_image_reporter" to match the regular expression ^[a-z_][a-z0-9_]*$.(©ëÎ®
+Hpython:S1172¸}"/Remove the unused function parameter "scissor".(ïõ™Ñ
+Dpython:S1172¸}"+Remove the unused function parameter "ctx".(ïõ™Ñ
+Cpython:S1172»}"+Remove the unused function parameter "ctx".(”ß«m
+wpython:S117Ó}"ZRename this local variable "have_TOFU" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ‰¿¦ÿÿÿÿÿ
+~python:S117Ô}"aRename this local variable "have_TOFU_BASE14" to match the regular expression ^[_a-z][a-z0-9_]*$.(“¡²¶şÿÿÿÿ
+vpython:S117Õ}"^Rename this local variable "have_TOFU_CJK" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø±Ôî
+zpython:S117Ö}"bRename this local variable "have_TOFU_CJK_EXT" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö•èó
+zpython:S117×}"cRename this local variable "have_TOFU_CJK_LANG" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì•˜f
+}python:S117Ø}"`Rename this local variable "have_TOFU_EMOJI" to match the regular expression ^[_a-z][a-z0-9_]*$.(™±â‚øÿÿÿÿ
+€python:S117Ù}"cRename this local variable "have_TOFU_HISTORIC" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡ô—¢ùÿÿÿÿ
+{python:S117Ú}"^Rename this local variable "have_TOFU_SIL" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÙ«‡ÿÿÿÿÿ
+ypython:S117Û}"aRename this local variable "have_TOFU_SYMBOL" to match the regular expression ^[_a-z][a-z0-9_]*$.(É­•Ğ
+mpython:S1542Ò}"TRename function "JM_fitz_config" to match the regular expression ^[a-z_][a-z0-9_]*$.(©Ò¨¡
+vpython:S1542ù}"XRename function "JM_insert_contents" to match the regular expression ^[a-z_][a-z0-9_]*$.(·Ñÿ¤úÿÿÿÿ
+mpython:S1542—~"TRename function "JM_insert_font" to match the regular expression ^[a-z_][a-z0-9_]*$.(€ƒ 
+mpython:S3776—~"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(€ƒ 
+spython:S1542å~"[Rename function "JM_invert_pixmap_rect" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ã×ï
+>python:S1481÷~"%Remove the unused local variable "x".(½“¹ã
+>python:S1481ø~"%Remove the unused local variable "i".(†í½–
+tpython:S1542ˆ"VRename function "JM_irect_from_py" to match the regular expression ^[a-z_][a-z0-9_]*$.(•Çáêıÿÿÿÿ
+Fpython:S1172¦"-Remove the unused function parameter "dict_".(„ƒò
+ppython:S1542¦"WRename function "JM_is_jbig2_image" to match the regular expression ^[a-z_][a-z0-9_]*$.(„ƒò
+jpython:S1134§"LTake the required action to fix the issue indicated by this "FIXME" comment.(à ‹¶ùÿÿÿÿ
+tpython:S1542²"VRename function "JM_listbox_value" to match the regular expression ^[a-z_][a-z0-9_]*$.(ç¬Õúÿÿÿÿ
+npython:S1542Ê"VRename function "JM_make_annot_DA" to match the regular expression ^[a-z_][a-z0-9_]*$.(İœ²
+^python:S3457Ñ"EAdd replacement fields or use a normal string instead of an f-string.(ƒ•”
+tpython:S1542Ş"VRename function "JM_make_spanlist" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥Œ¼Ğúÿÿÿÿ
+rpython:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(¥Œ¼Ğúÿÿÿÿ
+qpython:S3923×€"RRemove this if statement or edit its code blocks so that they're not all the same.(É¾’éûÿÿÿÿ
+spython:S1542Ş€"YRename function "JM_make_image_block" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼Ä¹ã
+wpython:S1542ÿ€"XRename function "JM_make_text_block" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÚöÑŸøÿÿÿÿ
+upython:S1542–"[Rename function "JM_make_textpage_dict" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùÛò
+vpython:S1542·"WRename function "JM_matrix_from_py" to match the regular expression ^[a-z_][a-z0-9_]*$.(òİ¼”øÿÿÿÿ
+qpython:S1854Ê"RRemove this assignment to local variable 'page_mediabox'; the value is never used.(äÃÄ˜øÿÿÿÿ
+ppython:S1542Æ"QRename function "JM_mediabox" to match the regular expression ^[a-z_][a-z0-9_]*$.(¡ã¸ùÿÿÿÿ
+npython:S1542ã"TRename function "JM_merge_range" to match the regular expression ^[a-z_][a-z0-9_]*$.(ò±ÓÃ
+qpython:S1542™‚"XRename function "JM_merge_resources" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÀŸù;
+mpython:S3776™‚"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÀŸù;
+upython:S1542Ù‚"VRename function "JM_mupdf_warning" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢¸÷“üÿÿÿÿ
+spython:S1542ã‚"TRename function "JM_mupdf_error" to match the regular expression ^[a-z_][a-z0-9_]*$.(œ¼Ş’ıÿÿÿÿ
+wpython:S1542é‚"XRename function "JM_new_bbox_device" to match the regular expression ^[a-z_][a-z0-9_]*$.(»òºéøÿÿÿÿ
+}python:S1542î‚"cRename function "JM_new_buffer_from_stext_page" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦¥€ù
+npython:S3776î‚"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¦¥€ù
+ppython:S1542ƒƒ"WRename function "JM_new_javascript" to match the regular expression ^[a-z_][a-z0-9_]*$.(‘Û¡
+zpython:S1542™ƒ"[Rename function "JM_new_output_fileptr" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆöœÀıÿÿÿÿ
+upython:S1542ƒ"VRename function "JM_norm_rotation" to match the regular expression ^[a-z_][a-z0-9_]*$.(§òÈöûÿÿÿÿ
+spython:S1542ªƒ"YRename function "JM_object_to_buffer" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ú¾²÷
+upython:S1542²ƒ"VRename function "JM_outline_xrefs" to match the regular expression ^[a-z_][a-z0-9_]*$.(ĞªÄ³ùÿÿÿÿ
+upython:S1542Ëƒ"VRename function "JM_page_rotation" to match the regular expression ^[a-z_][a-z0-9_]*$.(äÈ®üÿÿÿÿ
+xpython:S1542×ƒ"YRename function "JM_pdf_obj_from_str" to match the regular expression ^[a-z_][a-z0-9_]*$.(ó€şÿÿÿÿ
+kpython:S1134Ûƒ"LTake the required action to fix the issue indicated by this "FIXME" comment.(›Úªûÿÿÿÿ
+€python:S1542åƒ"aRename function "JM_pixmap_from_display_list" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼ˆö¥øÿÿÿÿ
+upython:S1542’„"VRename function "JM_point_from_py" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÌÕ‡ûÿÿÿÿ
+{python:S1542©„"aRename function "JM_print_stext_page_as_text" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ú‚³¨
+Epython:S1481¸„"+Remove the unused local variable "n_lines".(© ­
+Epython:S1481¹„"+Remove the unused local variable "n_chars".(ëºãı
+Fpython:S1481·„",Remove the unused local variable "n_blocks".(˜ƒ§â
+npython:S3776©„"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ú‚³¨
+Bpython:S108¾„")Either remove or fill this block of code.(ã‘Û¾
+=python:S125Ì„"Remove this commented out code.(¸£›áùÿÿÿÿ
+rpython:S1542Ô„"SRename function "JM_put_script" to match the regular expression ^[a-z_][a-z0-9_]*$.(ûÀøŸùÿÿÿÿ
+upython:S1542õ„"VRename function "JM_py_from_irect" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆŠüÿÿÿÿÿ
+qpython:S1542ù„"WRename function "JM_py_from_matrix" to match the regular expression ^[a-z_][a-z0-9_]*$.(Í˜ûª
+ppython:S1542ı„"VRename function "JM_py_from_point" to match the regular expression ^[a-z_][a-z0-9_]*$.(Šœ”†
+tpython:S1542…"URename function "JM_py_from_quad" to match the regular expression ^[a-z_][a-z0-9_]*$.(ª‘øøÿÿÿÿÿ
+opython:S1542…"URename function "JM_py_from_rect" to match the regular expression ^[a-z_][a-z0-9_]*$.(Òó·Í
+opython:S1542‘…"URename function "JM_quad_from_py" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÙÎî
+npython:S3776‘…"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÙÎî
+upython:S1542¾…"VRename function "JM_read_contents" to match the regular expression ^[a-z_][a-z0-9_]*$.(×ôª¦úÿÿÿÿ
+opython:S1542Ï…"URename function "JM_rect_from_py" to match the regular expression ^[a-z_][a-z0-9_]*$.(Á¿Û™
+ppython:S1542æ…"VRename function "JM_rects_overlap" to match the regular expression ^[a-z_][a-z0-9_]*$.(”¯Ñ÷
+upython:S1542ñ…"VRename function "JM_refresh_links" to match the regular expression ^[a-z_][a-z0-9_]*$.(¤¡ĞÊüÿÿÿÿ
+upython:S1542‚†"[Rename function "JM_rotate_page_matrix" to match the regular expression ^[a-z_][a-z0-9_]*$.(³Æšğ
+ypython:S1542š†"ZRename function "JM_search_stext_page" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼õ“„ùÿÿÿÿ
+Dpython:S1481¶†"%Remove the unused local variable "i".(£ıú¼şÿÿÿÿ
+spython:S3776š†"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(¼õ“„ùÿÿÿÿ
+qpython:S1542ã†"WRename function "JM_scan_resources" to match the regular expression ^[a-z_][a-z0-9_]*$.(ûÉ„õ
+upython:S1542Œ‡"[Rename function "JM_set_choice_options" to match the regular expression ^[a-z_][a-z0-9_]*$.(çĞ¯«
+Jpython:S1172¨‡"+Remove the unused function parameter "doc".(¹¤œŸıÿÿÿÿ
+vpython:S1542¨‡"WRename function "JM_set_field_type" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹¤œŸıÿÿÿÿ
+spython:S1542Î‡"YRename function "JM_set_object_value" to match the regular expression ^[a-z_][a-z0-9_]*$.(ãÎ¹Ç
+\python:S112ä‡">Replace this generic exception class with a more specific one.(æ¤è£üÿÿÿÿ
+Wpython:S112ì‡">Replace this generic exception class with a more specific one.(ÙÌ’
+Wpython:S112ï‡">Replace this generic exception class with a more specific one.(ÙÌ’
+qpython:S1542ş‡"WRename function "JM_set_ocg_arrays" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰ì
+npython:S3776ş‡"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰ì
+zpython:S1542œˆ"[Rename function "JM_set_ocg_arrays_imp" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ò‹Úèùÿÿÿÿ
+}python:S1542§ˆ"^Rename function "JM_set_resource_property" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ê…Æşÿÿÿÿ
+ppython:S117¼ˆ"RRename this parameter "Widget" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌËÉüÿÿÿÿ
+}python:S1542¼ˆ"^Rename function "JM_set_widget_properties" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÌËÉüÿÿÿÿ
+spython:S3776¼ˆ"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÌËÉüÿÿÿÿ
+gpython:S1542Çˆ"MRename function "GETATTR" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹°»Ş
+Spython:S1135à‰"4Complete the task associated to this "TODO" comment.(Áë¬‚ûÿÿÿÿ
+qpython:S1542ı‰"WRename function "JM_show_string_cs" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦™—
+tpython:S1542™Š"ZRename function "JM_UnicodeFromBuffer" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶ÑÒ
+opython:S1542¢Š"PRename function "JM_Warning" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÇËø­ıÿÿÿÿ
+upython:S1542©Š"VRename function "JM_update_stream" to match the regular expression ^[a-z_][a-z0-9_]*$.(ñ²ºœúÿÿÿÿ
+tpython:S1542ÁŠ"ZRename function "JM_xobject_from_page" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ìûê®
+upython:S1542äŠ"VRename function "PySequence_Check" to match the regular expression ^[a-z_][a-z0-9_]*$.(·¤şıÿÿÿÿ
+tpython:S1542èŠ"URename function "PySequence_Size" to match the regular expression ^[a-z_][a-z0-9_]*$.(­Ô˜Óüÿÿÿÿ
+gpython:S1542‹"MRename function "RAISEPY" to match the regular expression ^[a-z_][a-z0-9_]*$.(°ş‘Ë
+7python:S125‹"Remove this commented out code.(šæö
+Wpython:S112‘‹">Replace this generic exception class with a more specific one.(Õ˜²È
+€python:S1542”‹"fRename function "PyUnicode_DecodeRawUnicodeEscape" to match the regular expression ^[a-z_][a-z0-9_]*$.(ØĞÎº
+ipython:S1542 ‹"PRename function "CheckColor" to match the regular expression ^[a-z_][a-z0-9_]*$.(ı«Ç(
+ipython:S1542«‹"ORename function "CheckFont" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŸØÂ
+mpython:S1542³‹"SRename function "CheckFontInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(„øÓï
+spython:S1542»‹"TRename function "CheckMarkerArg" to match the regular expression ^[a-z_][a-z0-9_]*$.(ò§ãñøÿÿÿÿ
+jpython:S1542Ç‹"PRename function "CheckMorph" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢‹Ç½
+kpython:S1542Ó‹"QRename function "CheckParent" to match the regular expression ^[a-z_][a-z0-9_]*$.(«Œ£
+`python:S1763Õ‹"GDelete this unreachable code or refactor the code to make it reachable.(Úí³m
+ipython:S1542Ù‹"ORename function "CheckQuad" to match the regular expression ^[a-z_][a-z0-9_]*$.(—‡‰‚
+npython:S1542æ‹"ORename function "CheckRect" to match the regular expression ^[a-z_][a-z0-9_]*$.(·öì¼úÿÿÿÿ
+ipython:S1542ó‹"ORename function "ColorCode" to match the regular expression ^[a-z_][a-z0-9_]*$.(´¥ÄÉ
+upython:S1542…Œ"[Rename function "Page__add_text_marker" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÒÀò‚
+mpython:S1542œŒ"NRename function "PDF_NAME" to match the regular expression ^[a-z_][a-z0-9_]*$.(›é‰øûÿÿÿÿ
+spython:S1542¡Œ"TRename function "UpdateFontInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(æˆÑÿÿÿÿÿ
+`python:S1854ĞŒ"FRemove this assignment to local variable 'h'; the value is never used.(®©„…
+`python:S1854ÏŒ"FRemove this assignment to local variable 'w'; the value is never used.(êêœ
+hpython:S1542…"NRename function "getTJstr" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùğº²
+spython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(”Êßîüÿÿÿÿ
+upython:S5886€"[Return a value of type "str" instead of "bool" or update function "get_tessdata" type hint.(ºÅ³Ù
+upython:S5886‡"[Return a value of type "str" instead of "bool" or update function "get_tessdata" type hint.(ºÅ³Ù
+upython:S5886"[Return a value of type "str" instead of "bool" or update function "get_tessdata" type hint.(ºÅ³Ù
+upython:S5886"[Return a value of type "str" instead of "bool" or update function "get_tessdata" type hint.(ºÅ³Ù
+upython:S5886Ÿ"[Return a value of type "str" instead of "bool" or update function "get_tessdata" type hint.(ºÅ³Ù
+apython:S1763Ÿ"GDelete this unreachable code or refactor the code to make it reachable.(ºÅ³Ù
+spython:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(İÄ„şÿÿÿÿ
+hpython:S117£"ORename this parameter "CSS" to match the regular expression ^[_a-z][a-z0-9_]*$.(å–²
+Gpython:S1940Í"-Use the opposite operator ("is not") instead.(ëç€¿
+spython:S3776§"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(û´¶÷ıÿÿÿÿ
+fpython:S1134·"LTake the required action to fix the issue indicated by this "FIXME" comment.(ô£‘á
+8python:S125¹"Remove this commented out code.(¯“ŞŞ
+Epython:S1172î"+Remove the unused function parameter "ctx".(…Ğì±
+Fpython:S1481•‘",Remove the unused local variable "out_font".(¯øø
+npython:S3776‘‘"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(íø—
+Jpython:S5806Ÿ‘"+Rename this variable; it shadows a builtin.(ò·‘Üúÿÿÿÿ
+8python:S125½‘"Remove this commented out code.(¤ËÌñ
+Dpython:S1172È’"+Remove the unused function parameter "ctx".(§¢¼r
+8python:S125Ï’"Remove this commented out code.(†äĞÅ
+8python:S125ß’"Remove this commented out code.(ËÑšÒ
+_python:S3457Ô“"EAdd replacement fields or use a normal string instead of an f-string.(±³ã¼
+Jpython:S1172ë“"+Remove the unused function parameter "ctx".(ó”¼ßüÿÿÿÿ
+fpython:S1134©”"LTake the required action to fix the issue indicated by this "FIXME" comment.(›åÜ’
+‹python:S101Î•"rRename class "JM_image_reporter_Filter" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Òï˜ì
+‘python:S101Ü•"sRename class "JM_new_bbox_device_Device" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¥¼ŠÒúÿÿÿÿ
+”python:S101ú•"vRename class "JM_new_output_fileptr_Output" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(º¼èúÿÿÿÿ
+python:S101¤–"vRename class "JM_new_lineart_device_Device" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.( º„
+kpython:S1134¬–"LTake the required action to fix the issue indicated by this "FIXME" comment.(Êöç¡ıÿÿÿÿ
+=python:S125Ú–"Remove this commented out code.(ğÏã•úÿÿÿÿ
+Špython:S101õ–"qRename class "JM_new_texttrace_device" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(­’š¬
+python:S5886±—"`Return a value of type "bytes" instead of "list" or update function "_get_glyph_text" type hint.(ŸÇ£²şÿÿÿÿ
+upython:S1542„›"VRename function "ConversionHeader" to match the regular expression ^[a-z_][a-z0-9_]*$.(’İíãÿÿÿÿÿ
+vpython:S1542º›"WRename function "ConversionTrailer" to match the regular expression ^[a-z_][a-z0-9_]*$.(©¹Öğüÿÿÿÿ
+8python:S125ÿ›"Remove this commented out code.(¥¸íı
+Spython:S1135‰œ"4Complete the task associated to this "TODO" comment.(¡ûåËøÿÿÿÿ
+Spython:S1135Šœ"4Complete the task associated to this "TODO" comment.(¤œÂØúÿÿÿÿ
+Bpython:S108«œ")Either remove or fill this block of code.(ã‘Û¾
+Bpython:S108Ûœ")Either remove or fill this block of code.(ã‘Û¾
+xpython:S1186âœ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Áû¹Çûÿÿÿÿ
+spython:S3776êœ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÅĞ˜Ìøÿÿÿÿ
+npython:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Œà«
+Wpython:S112Ñ">Replace this generic exception class with a more specific one.(Éÿ¿­
+fpython:S117ŠŸ"MRename this parameter "P" to match the regular expression ^[_a-z][a-z0-9_]*$.(şÂ’
+fpython:S117ŠŸ"MRename this parameter "Q" to match the regular expression ^[_a-z][a-z0-9_]*$.(şÂ’
+kpython:S117èŸ"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôƒ„øÿÿÿÿ
+kpython:S117èŸ"MRename this parameter "P" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôƒ„øÿÿÿÿ
+kpython:S117èŸ"MRename this parameter "Q" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ôƒ„øÿÿÿÿ
+fpython:S117öŸ"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÍÿ…
+fpython:S117öŸ"MRename this parameter "P" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÍÿ…
+npython:S3776† "TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(¯Ú¦Ü
+kpython:S1134­ "LTake the required action to fix the issue indicated by this "FIXME" comment.(Şìûÿÿÿÿ
+npython:S3776¾ "TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ü×
+Dpython:S1172à¡"+Remove the unused function parameter "doc".(ŞûöE
+mpython:S3776à¡"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(ŞûöE
+\python:S112î¡">Replace this generic exception class with a more specific one.(Ó€û•ÿÿÿÿÿ
+Wpython:S112ô¡">Replace this generic exception class with a more specific one.(€Ò¬ã
+\python:S112¬¢">Replace this generic exception class with a more specific one.(Ÿ£¦øÿÿÿÿ
+\python:S112´¢">Replace this generic exception class with a more specific one.(Õúã¶ùÿÿÿÿ
+npython:S3776¸¢"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(îöÁÂ
+^python:S3457Ó¢"EAdd replacement fields or use a normal string instead of an f-string.(¸Ø•k
+_python:S3457×¢"EAdd replacement fields or use a normal string instead of an f-string.(Ñü¡
+^python:S3457Û¢"EAdd replacement fields or use a normal string instead of an f-string.(Ã¶‚{
+dpython:S3457á¢"EAdd replacement fields or use a normal string instead of an f-string.(Ì’õŠÿÿÿÿÿ
+ppython:S1542Š£"QRename function "sRGB_to_pdf" to match the regular expression ^[a-z_][a-z0-9_]*$.(™‰Áøÿÿÿÿ
+ppython:S1542˜£"QRename function "sRGB_to_rgb" to match the regular expression ^[a-z_][a-z0-9_]*$.(¤óœıÿÿÿÿ
+spython:S3776±£"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(×ƒô»üÿÿÿÿ
+Dpython:S5806Â£"+Rename this variable; it shadows a builtin.(–”œn
+qpython:S1542‰¤"WRename function "PySys_WriteStdout" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ø¼¶Õ
+qpython:S1542¤"WRename function "PySys_WriteStderr" to match the regular expression ^[a-z_][a-z0-9_]*$.(”óª—
+vpython:S116Ñ¨"XRename this field "JM_annot_id_stem" to match the regular expression ^[_a-z][_a-z0-9]*$.(ØŠ¶üùÿÿÿÿ
+Vpython:S5720œ¤"<Rename "page" to "self" or add the missing "self" parameter.(Œ™Ÿƒ
+Wpython:S5720§"=Rename "annot" to "self" or add the missing "self" parameter.(‹‘œ½
+kpython:S1134È¤"LTake the required action to fix the issue indicated by this "FIXME" comment.(øÕ„Îûÿÿÿÿ
+=python:S125ä¤"Remove this commented out code.(™Íé¿øÿÿÿÿ
+Hpython:S1481õ¤".Replace unused local variable "fcol" with "_".(à¾¶
+Epython:S1481õ¤"+Replace unused local variable "m" with "_".(à¾¶
+Epython:S1481…¥"+Replace unused local variable "m" with "_".(à¾¶
+Epython:S1481“¥"+Replace unused local variable "m" with "_".(à¾¶
+Epython:S1481§¥"+Replace unused local variable "m" with "_".(à¾¶
+Epython:S1481½¥"+Replace unused local variable "m" with "_".(à¾¶
+Hpython:S1481½¥".Replace unused local variable "fcol" with "_".(à¾¶
+Epython:S1481Ñ¥"+Replace unused local variable "m" with "_".(à¾¶
+Epython:S1481å¥"+Replace unused local variable "m" with "_".(à¾¶
+Epython:S1481ù¥"+Replace unused local variable "m" with "_".(à¾¶
+Hpython:S1481ù¥".Replace unused local variable "fcol" with "_".(à¾¶
+Epython:S1481‰¦"+Replace unused local variable "m" with "_".(à¾¶
+9python:S3626ê¦"Remove this redundant continue.(À–¬ˆ
+npython:S3776¹¦"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ªÁ²×
+tpython:S1542¾¦"URename function "Tools__parse_da" to match the regular expression ^[a-z_][a-z0-9_]*$.(€“×‰ÿÿÿÿÿ
+7python:S3626§"Remove this redundant return.(ÙãŞŸ
+hpython:S1854Ü§"IRemove this assignment to local variable 'len_'; the value is never used.(¾’Û¢ıÿÿÿÿ
+kpython:S1134¯¨"LTake the required action to fix the issue indicated by this "FIXME" comment.(™òÕ×şÿÿÿÿ
+kpython:S1134¼¨"LTake the required action to fix the issue indicated by this "FIXME" comment.(ºöâûüÿÿÿÿ
+kpython:S1134Ã¨"LTake the required action to fix the issue indicated by this "FIXME" comment.(ºöâûüÿÿÿÿ
+fpython:S1134Ğ¨"LTake the required action to fix the issue indicated by this "FIXME" comment.(ñéÉò
+spython:S3776ë©"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ë´¡üÿÿÿÿ
+Kpython:S930ò©"-Remove this unexpected named argument 'file'.(€„¡ûÿÿÿÿ
+Kpython:S930õ©"-Remove this unexpected named argument 'file'.(€„¡ûÿÿÿÿ
